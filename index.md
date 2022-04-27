@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Produse marketing
 
 You can use the [editor on GitHub](https://github.com/produse-marketing/produse-marketing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
